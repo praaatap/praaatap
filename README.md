@@ -32,5 +32,5 @@
 
 
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/pratapsingh2005?ext=heatmap)
+![Leetcode Stats](https://leetcard.jacoblin.cool/praaatap?ext=heatmap)
 
