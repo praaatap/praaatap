@@ -7,7 +7,6 @@
 </p>
 
 <p align="center">
-  <em>I am a pre-final year BCA student at Sangam University, passionate about building scalable web applications and mobile solutions. Currently preparing for the AWS Solutions Architect Associate exam.</em>
 </p>
 
 ---
