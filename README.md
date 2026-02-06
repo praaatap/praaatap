@@ -1,157 +1,225 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,30&height=180&section=header&text=Pratap%20Singh%20Sisodiya&fontSize=50&fontColor=ffffff&fontAlignY=45&desc=Full%20Stack%20%7C%20Flutter%20%7C%20Cloud%20Architect&descAlignY=70&descAlign=50" alt="Header" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,30&height=160&section=header&text=Pratap%20Singh%20Sisodiya&fontSize=48&fontColor=ffffff&fontAlignY=45&desc=Full%20Stack%20Developer%20|%20Flutter%20|%20Cloud&descAlignY=70" width="100%" />
+</div>
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=7873F5&center=true&vCenter=true&width=600&lines=Solved+1500%2B+DSA+Problems+Globally;CodeChef+Global+Rank+48+(Rating+1818);Top+0.08%25+Rank+on+LeetCode;Microsoft+Certified+Azure+Administrator" alt="Typing SVG" />
-  </a>
+<p align="center">
+  <a href="https://github.com/praaatap">GitHub</a> •
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_ID">LinkedIn</a> •
+  <a href="mailto:pratap.singh.sisodiya.09@gmail.com">Email</a> •
+  <a href="https://leetcode.com/u/pratapsingh2005">LeetCode</a>
+</p>
 
-  <p>
-    <a href="https://github.com/praaatap">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub">
-    </a>
-    <a href="https://linkedin.com/in/YOUR_LINKEDIN_ID">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
-    </a>
-    <a href="mailto:pratap.singh.sisodiya.09@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail">
-    </a>
-    <a href="https://twitter.com/prataps72105367">
-      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=x&logoColor=white" alt="Twitter">
-    </a>
-  </p>
+---
+
+## About
+
+Full Stack Developer focused on building **scalable backend systems**, **real-time applications**, and **production-grade mobile & web products**.
+
+- Strong foundation in **Data Structures & Algorithms (1500+ problems solved)**
+- Experience across **Web, Mobile, Cloud, AI-assisted tools**
+- Microsoft Certified **Azure Administrator (AZ-104)**
+
+---
+
+## Tech Stack
+
+**Frontend**
+- React, Next.js, TypeScript
+- Tailwind CSS, Framer Motion
+
+**Backend**
+- Node.js, Express
+- Prisma, REST APIs, WebSockets
+
+**Mobile**
+- Flutter, Dart
+- Android (Kotlin basics)
+
+**Database**
+- PostgreSQL, MongoDB, MySQL
+- Redis
+
+**Cloud & DevOps**
+- AWS, Azure
+- Docker, Linux, Git, CI/CD
+
+---
+
+## Selected Projects
+
+> A curated set of production-focused projects across AI, systems, web platforms, and mobile applications.
+
+---
+
+<h2 align="center">Selected Projects</h2>
+<p align="center">
+  <sub>Production-focused work across AI, Web Systems, and Mobile Applications</sub>
+</p>
+
+<br />
+
+<!-- AI PROJECTS -->
+<h3>🤖 AI & Automation</h3>
+
+<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:16px;">
+
+  <div style="border:1px solid #30363d;border-radius:12px;padding:16px;">
+    <h4>AI Operations Assistant</h4>
+    <p style="font-size:14px;color:#8b949e;">
+      AI-driven assistant to automate operational workflows and reduce manual effort in engineering teams.
+    </p>
+    <a href="https://github.com/praaatap/Ai-Operations-Assistant">View Repository →</a>
+  </div>
+
+  <div style="border:1px solid #30363d;border-radius:12px;padding:16px;">
+    <h4>VibeEdit AI</h4>
+    <p style="font-size:14px;color:#8b949e;">
+      Intelligent content and media editing platform focused on speed and automation.
+    </p>
+    <a href="https://github.com/praaatap/VibeEdit-Ai">View Repository →</a>
+  </div>
+
+  <div style="border:1px solid #30363d;border-radius:12px;padding:16px;">
+    <h4>JobDescription AI</h4>
+    <p style="font-size:14px;color:#8b949e;">
+      Automated job description generation system for hiring teams.
+    </p>
+    <a href="https://github.com/praaatap/jobdescription-ai">View Repository →</a>
+  </div>
+
+  <div style="border:1px solid #30363d;border-radius:12px;padding:16px;">
+    <h4>Resumint</h4>
+    <p style="font-size:14px;color:#8b949e;">
+      AI-powered resume parsing and optimization tool built for ATS compatibility.
+    </p>
+    <a href="https://github.com/praaatap/Resuminthttps">View Repository →</a>
+  </div>
+
 </div>
 
 <br />
 
----
+<!-- WEB & SYSTEMS -->
+<h3>🌐 Web Platforms & Systems</h3>
 
-### ⚡ About Me
+<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:16px;">
 
-> **"Code efficiently, scale infinitely."**
+  <div style="border:1px solid #30363d;border-radius:12px;padding:16px;">
+    <h4>Gdit (Git for Drive)</h4>
+    <p style="font-size:14px;color:#8b949e;">
+      Git-inspired version control system for Google Drive files.
+    </p>
+    <a href="https://github.com/praaatap/Gdit">View Repository →</a>
+  </div>
 
-I am a **Full Stack Developer** and **Cloud Enthusiast** specializing in high-performance applications. With a strong algorithmic foundation (**1500+ DSA problems solved**), I bridge the gap between complex backend logic and sleek user interfaces.
+  <div style="border:1px solid #30363d;border-radius:12px;padding:16px;">
+    <h4>Servline</h4>
+    <p style="font-size:14px;color:#8b949e;">
+      Service management platform designed for scalable backend workflows.
+    </p>
+    <a href="https://github.com/praaatap/Servline">View Repository →</a>
+  </div>
 
-* ☁️ **Cloud:** Microsoft Certified: Azure Administrator Associate (AZ-104)
-* 🏆 **Competitions:** Global Rank 48 (CodeChef), Top 0.08% (LeetCode)
-* 🔭 **Focus:** Scalable Architecture, Real-time Systems, and DevOps.
+  <div style="border:1px solid #30363d;border-radius:12px;padding:16px;">
+    <h4>SQLingo</h4>
+    <p style="font-size:14px;color:#8b949e;">
+      Interactive SQL learning and execution environment.
+    </p>
+    <a href="https://github.com/praaatap/SQLingo">View Repository →</a>
+  </div>
 
----
+  <div style="border:1px solid #30363d;border-radius:12px;padding:16px;">
+    <h4>Whiteboard Dashboard</h4>
+    <p style="font-size:14px;color:#8b949e;">
+      Real-time collaborative whiteboard built with WebSockets.
+    </p>
+    <a href="https://github.com/praaatap/whiteboard-dashboard">View Repository →</a>
+  </div>
 
-### 🛠️ Tech Stack
+  <div style="border:1px solid #30363d;border-radius:12px;padding:16px;">
+    <h4>Anonchan</h4>
+    <p style="font-size:14px;color:#8b949e;">
+      Anonymous communication platform focused on privacy.
+    </p>
+    <a href="https://github.com/praaatap/Anonchan">View Repository →</a>
+  </div>
+
+</div>
+
+<br />
+
+<!-- MOBILE -->
+<h3>📱 Mobile Applications</h3>
+
+<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:16px;">
+
+  <div style="border:1px solid #30363d;border-radius:12px;padding:16px;">
+    <h4>Quirzy</h4>
+    <p style="font-size:14px;color:#8b949e;">
+      Quiz and assessment mobile application with clean UX.
+    </p>
+    <a href="https://github.com/praaatap/Quirzy">View Repository →</a>
+  </div>
+
+  <div style="border:1px solid #30363d;border-radius:12px;padding:16px;">
+    <h4>Timeline App</h4>
+    <p style="font-size:14px;color:#8b949e;">
+      Timeline-based content visualization mobile app.
+    </p>
+    <a href="https://github.com/praaatap/timeline-app">View Repository →</a>
+  </div>
+
+  <div style="border:1px solid #30363d;border-radius:12px;padding:16px;">
+    <h4>Blaze</h4>
+    <p style="font-size:14px;color:#8b949e;">
+      Lightweight and performance-focused utility app.
+    </p>
+    <a href="https://github.com/praaatap/Blaze">View Repository →</a>
+  </div>
+
+  <div style="border:1px solid #30363d;border-radius:12px;padding:16px;">
+    <h4>Zappy</h4>
+    <p style="font-size:14px;color:#8b949e;">
+      Fast, minimal mobile application focused on responsiveness.
+    </p>
+    <a href="https://github.com/praaatap/Zappy">View Repository →</a>
+  </div>
+
+  <div style="border:1px solid #30363d;border-radius:12px;padding:16px;">
+    <h4>Hanuman Chalisa Paath</h4>
+    <p style="font-size:14px;color:#8b949e;">
+      Devotional mobile app with distraction-free UI.
+    </p>
+    <a href="https://github.com/praaatap/Hanuman-Chalisa-Paath">View Repository →</a>
+  </div>
+
+</div>
+
+## GitHub Stats
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" width="100"><strong>Frontend</strong></td>
-      <td align="left">
-        <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,html,css,figma,framer&theme=dark" />
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="100"><strong>Backend</strong></td>
-      <td align="left">
-        <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,prisma,graphql,firebase,appwrite&theme=dark" />
-      </td>
-    </tr>
-     <tr>
-      <td align="center" width="100"><strong>Mobile</strong></td>
-      <td align="left">
-        <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,androidstudio&theme=dark" />
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="100"><strong>Database</strong></td>
-      <td align="left">
-        <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis&theme=dark" />
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="100"><strong>DevOps</strong></td>
-      <td align="left">
-        <img src="https://skillicons.dev/icons?i=aws,azure,docker,git,linux,vercel,bash&theme=dark" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-readme-stats.vercel.app/api?username=praaatap&show_icons=true&hide_border=true&theme=transparent" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=praaatap&layout=compact&hide_border=true&theme=transparent" height="160" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=praaatap&hide_border=true&theme=transparent" width="100%" />
 </div>
 
 ---
 
-### 📜 Certifications
+## DSA & Competitive Programming
+
+- **1500+ DSA Problems Solved**
+- CodeChef Global Rank **48**
+- LeetCode Top **0.08%**
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Azure-Administrator_(AZ--104)-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" height="28" />
-  <img src="https://img.shields.io/badge/AWS-Cloud_Foundations-232F3E?style=flat-square&logo=amazonaws&logoColor=white" height="28" />
-  <img src="https://img.shields.io/badge/Oracle-AI_Foundations-C74634?style=flat-square&logo=oracle&logoColor=white" height="28" />
+  <img src="https://leetcard.jacoblin.cool/praaatap?theme=dark&font=Fira%20Code" width="95%" />
 </div>
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <a href="https://github.com/praaatap">
-    <img src="https://github-readme-stats.vercel.app/api?username=praaatap&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&rank_icon=github" height="160" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/praaatap">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=praaatap&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&bg_color=00000000" height="160" alt="Top Languages" />
-  </a>
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=praaatap&theme=tokyonight&hide_border=true&background=00000000" alt="Streak" width="90%" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=praaatap&theme=tokyo-night&hide_border=true&area=true&bg_color=00000000" width="100%" alt="Activity Graph" />
-</div>
-
----
-
-### 🚀 Key Projects
-
-<div align="center">
-  <table border="0" width="100%">
-    <tr>
-      <td width="50%" align="center">
-        <a href="https://github.com/praaatap/gdit">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=praaatap&repo=gdit&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Gdit" />
-        </a>
-      </td>
-      <td width="50%" align="center">
-        <a href="https://github.com/praaatap/quirzy">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=praaatap&repo=quirzy&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Quirzy" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%" align="center">
-        <a href="https://github.com/praaatap/capiton-ai">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=praaatap&repo=capiton-ai&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Capiton AI" />
-        </a>
-      </td>
-      <td width="50%" align="center">
-        <a href="https://github.com/praaatap/whiteboard">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=praaatap&repo=whiteboard&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Whiteboard" />
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
-### 🧠 DSA Proficiency
-
-<div align="center">
-  <a href="https://leetcode.com/praaatap">
-    <img src="https://leetcard.jacoblin.cool/praaatap?ext=heatmap&theme=tokyonight" alt="LeetCode Stats" width="90%" />
-  </a>
-</div>
-
----
-
-<div align="center">
-  <a href="https://github.com/praaatap" target="_blank">
-    <img src="https://img.shields.io/badge/Made%20with%20%E2%9D%A4%EF%B8%8F%20by%20Pratap-2E2E2E?style=for-the-badge" alt="Footer Badge">
-  </a>
-</div>
+<p align="center">
+  <sub>Built and maintained by Pratap Singh Sisodiya</sub>
+</p>
